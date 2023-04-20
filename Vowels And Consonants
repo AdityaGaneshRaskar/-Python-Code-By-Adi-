@@ -1,0 +1,22 @@
+# -Python-Code-By-Adi-
+#program to check whether given character is vowel or consonant 
+
+
+#HERE WE GO:
+
+x=str(input("enter the given character:"))
+
+if (x=="a"or x=="e"or x=="i"or x=="o"or x=="u"):
+    print("entered chracter is vowels")
+else:
+    print("entered chaaracter is consonants")
+    
+#DONE
+
+
+
+#OUTPUT:-
+
+enter the given character:Z
+entered chaaracter is consonants
+> 
