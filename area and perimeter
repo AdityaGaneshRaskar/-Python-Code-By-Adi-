@@ -1,0 +1,18 @@
+# -Python-Code-By-Adi-
+a=int(input("enter the number"))
+b=int(input("enter the number"))
+print("area of squar:",a**2)
+print("perimeter of squar:",4*a)
+print("area of rectangle:",a*b)
+print("perimeter of rectangle:",2*(a+b))
+
+
+OUTPUT:-
+
+enter the number2
+enter the number3
+area of squar: 4
+perimeter of squar: 8
+area of rectangle: 6
+perimeter of rectangle: 10
+> 
