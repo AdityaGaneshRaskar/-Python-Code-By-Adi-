@@ -1,0 +1,16 @@
+# -Python-Code-By-Adi-
+#TO CONVERT KELVIN TO CELCIUS
+
+#HERE WE GO
+
+K=int(input("Temperature in kelvin is:"))
+C=K-273
+print("Temperature in celcius is:",C)
+
+#DONE
+
+OUTPUT:-
+
+#Temperature in kelvin is:300
+Temperature in celcius is: 27
+> 
